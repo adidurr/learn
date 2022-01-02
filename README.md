@@ -1,2 +1,2 @@
 # learn
-My Learning Repository
+My Learning Repository for Python related code
